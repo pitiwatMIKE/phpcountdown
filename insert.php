@@ -42,7 +42,7 @@ if (isset($userName)) {
 $conn->close();
 
 
-header("location: /countdown/index.php");
+header("location: /phpcountdown/index.php");
 exit(0);
 ?>
 
